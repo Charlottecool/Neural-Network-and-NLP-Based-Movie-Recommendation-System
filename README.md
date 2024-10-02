@@ -2,6 +2,8 @@
 
 ## Ever wondered how streaming platforms always seem to know the perfect movie for your mood? What if you could uncover the secrets behind those recommendations? Let's get started!
 
+![cinema picture](image/cinema.webp)
+
 ---
 
 ## 1. Overview and Business Understanding
@@ -37,7 +39,27 @@ Overall, this multi-phase development process led to a robust recommendation sys
 
 I've deployed the recommendation system as a simple and user-friendly [web app](https://31e7129dee02ddf422.gradio.live).
 
+## Watch the Demo
+
+[Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=https://youtu.be/f0b_TRmD21w
+)
 ---
+
+## 5.Project structure for data not in git due to size limitations
+├── genome_scores.csv
+├── genome_tags.csv
+├── image
+│   └── cinema.webp
+├── imdb_top_1000.csv
+├── link.csv
+├── movie.csv
+├── Movie Recommendation System.pdf
+├── Neural Network and NLP-Based Movie Recommendation System.ipynb
+├── Presentation.pdf
+├── rating.csv
+├── README.md
+└── tag.csv
+You can have all csv. files from the kaggle link above.
 
 ## For more information
 
