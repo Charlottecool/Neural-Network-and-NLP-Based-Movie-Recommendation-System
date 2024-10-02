@@ -64,4 +64,4 @@ You can have all csv. files from the kaggle link above.
 
 ## For more information
 
-Check out the full [Jupyter notebook](https://github.com/Charlottecool/project-5/blob/master/Neural%20Network%20and%20NLP-Based%20Movie%20Recommendation%20System.ipynb) and [the presentation](https://github.com/Charlottecool/project-5/blob/master/Neural%20Network%20and%20NLP-Based%20Movie%20Recommendation%20System.pdf).
+Check out the full [Jupyter notebook](https://github.com/Charlottecool/project-5/blob/master/Neural%20Network%20and%20NLP-Based%20Movie%20Recommendation%20System.ipynb) and [the presentation](https://github.com/Charlottecool/project-5/blob/master/Presentation.pdf).
