@@ -39,7 +39,12 @@ Overall, this multi-phase development process led to a robust recommendation sys
 
 I've deployed the recommendation system as a simple and user-friendly [web app](https://31e7129dee02ddf422.gradio.live).
 
-![Video](./demo/demo.webm)
+## Video Demo
+## Video Demo
+
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/5bb1041e-f323-4d22-94cb-913245b2f277" type="video/webm">
+</video>
 
 ---
 
