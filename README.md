@@ -39,7 +39,7 @@ Overall, this multi-phase development process led to a robust recommendation sys
 
 I've deployed the recommendation system as a simple and user-friendly [web app](https://31e7129dee02ddf422.gradio.live).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f0b_TRmD21w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Video](./demo/demo.webm)
 
 ---
 
