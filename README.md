@@ -39,13 +39,12 @@ Overall, this multi-phase development process led to a robust recommendation sys
 
 I've deployed the recommendation system as a simple and user-friendly [web app](https://31e7129dee02ddf422.gradio.live).
 
-## Watch the Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/f0b_TRmD21w?si=4JO7IOgvKO4_gRWN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=https://youtu.be/f0b_TRmD21w
-)
 ---
 
 ## 5.Project structure for data not in git due to size limitations
+```
 ├── genome_scores.csv
 ├── genome_tags.csv
 ├── image
@@ -59,6 +58,7 @@ I've deployed the recommendation system as a simple and user-friendly [web app](
 ├── rating.csv
 ├── README.md
 └── tag.csv
+```
 You can have all csv. files from the kaggle link above.
 
 ## For more information
