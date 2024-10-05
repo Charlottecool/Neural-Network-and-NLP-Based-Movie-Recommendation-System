@@ -1,0 +1,14 @@
+os
+tensorflow
+keras-tuner
+networkx
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+nltk
+sklearn
+sentence-transformers
+surprise
+gradio
