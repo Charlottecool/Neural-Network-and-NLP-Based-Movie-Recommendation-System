@@ -1,16 +1,3 @@
----
-title: Movie Recommendation System
-emoji: 📊
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-sdk_version: 4.44.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: 'This is Charlotte''s Movie Recommendation System '
----
-
 # Neural Network and NLP-Based Movie Recommendation System
 
 ## Ever wondered how streaming platforms always seem to know the perfect movie for your mood? What if you could uncover the secrets behind those recommendations? Let's get started!
