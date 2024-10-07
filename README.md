@@ -37,7 +37,7 @@ Overall, this multi-phase development process led to a robust recommendation sys
 
 ## 4. Deployment
 
-I've deployed the recommendation system as a simple and user-friendly [web app](https://31e7129dee02ddf422.gradio.live).
+I've deployed the recommendation system as a simple and user-friendly [web app](https://huggingface.co/spaces/Charlottecool/movie-recommendation-system).
 
 ## Video Demo
 [demo.webm](https://github.com/user-attachments/assets/92951920-0630-44b4-b833-0d4f26e558ee)
